@@ -23,6 +23,8 @@
 
 #
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hardeep04/count.svg" />
+  <!-- Visitor count<br> -->
+  <img src="https://komarev.com/ghpvc/?username=hardeep04&color=2ecc71&style=flat-square&label=VISITOR+COUNT"/>
+  <!-- <img src="https://profile-counter.glitch.me/hardeep04/count.svg" /> -->
 </p>
+
