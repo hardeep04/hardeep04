@@ -35,5 +35,5 @@
 
 #
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hardeep04&color=2ecc71&style=flat-square&label=VISITOR+COUNT"/>
+  <img src="https://komarev.com/ghpvc/?username=hardeep04&color=0096FF&style=flat-square&label=VISITOR+COUNT"/>
 </p>
